@@ -5,7 +5,7 @@
 
 DROP DATABASE IF EXISTS exercicio;
 CREATE DATABASE exercicio;
-USE exercicio;
+USE exercicio; 
 
 CREATE TABLE filmes(
     id INT PRIMARY KEY AUTO_INCREMENT,
